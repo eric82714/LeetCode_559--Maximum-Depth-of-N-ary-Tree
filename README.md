@@ -8,7 +8,7 @@ Nary-Tree input serialization is represented in their level order traversal, eac
 
 # Example 1:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_559--Maximum-Depth-of-N-ary-Tree/blob/master/image/example-1.PNG)
 
 Input: root = [1,null,3,2,4,null,5,6]
 
@@ -16,7 +16,7 @@ Output: 3
 
 # Example 2:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_559--Maximum-Depth-of-N-ary-Tree/blob/master/image/example-2.PNG)
 
 Input: root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
 
